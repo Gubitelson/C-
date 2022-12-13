@@ -1,0 +1,15 @@
+C:\Users\Rubinson\Desktop\C#\project hello\bin\Debug\net7.0\project hello.exe
+C:\Users\Rubinson\Desktop\C#\project hello\bin\Debug\net7.0\project hello.deps.json
+C:\Users\Rubinson\Desktop\C#\project hello\bin\Debug\net7.0\project hello.runtimeconfig.json
+C:\Users\Rubinson\Desktop\C#\project hello\bin\Debug\net7.0\project hello.dll
+C:\Users\Rubinson\Desktop\C#\project hello\bin\Debug\net7.0\project hello.pdb
+C:\Users\Rubinson\Desktop\C#\project hello\obj\Debug\net7.0\project hello.csproj.AssemblyReference.cache
+C:\Users\Rubinson\Desktop\C#\project hello\obj\Debug\net7.0\project hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rubinson\Desktop\C#\project hello\obj\Debug\net7.0\project hello.AssemblyInfoInputs.cache
+C:\Users\Rubinson\Desktop\C#\project hello\obj\Debug\net7.0\project hello.AssemblyInfo.cs
+C:\Users\Rubinson\Desktop\C#\project hello\obj\Debug\net7.0\project hello.csproj.CoreCompileInputs.cache
+C:\Users\Rubinson\Desktop\C#\project hello\obj\Debug\net7.0\project hello.dll
+C:\Users\Rubinson\Desktop\C#\project hello\obj\Debug\net7.0\refint\project hello.dll
+C:\Users\Rubinson\Desktop\C#\project hello\obj\Debug\net7.0\project hello.pdb
+C:\Users\Rubinson\Desktop\C#\project hello\obj\Debug\net7.0\project hello.genruntimeconfig.cache
+C:\Users\Rubinson\Desktop\C#\project hello\obj\Debug\net7.0\ref\project hello.dll
